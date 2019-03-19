@@ -3,7 +3,6 @@
 This program use a simple skin color detection method, to move character up and down along vertical direction. 
 
 #OpenCV 3.2
-
 #C
 
 demo video
