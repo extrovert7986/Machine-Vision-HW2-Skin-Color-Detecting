@@ -7,4 +7,4 @@ This program use a simple skin color detection method, to move character up and 
 #C
 
 demo video
-https://www.youtube.com/watch?v=Ugm1X7WZufs&index=2
+https://www.youtube.com/watch?v=tckErwbjrlU
